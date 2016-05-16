@@ -1,6 +1,6 @@
 # Cloud9IDE as an application
 
-This project wraps Cloud9IDE's [SDK](https://github.com/c9/core) in an (Electron)[https://github.com/electron/electron] shell.
+This project wraps Cloud9IDE's [SDK](https://github.com/c9/core) in an [Electron](https://github.com/electron/electron) shell.
 
 The project is only configured to build an `x86` OSX (`darwin`) binary.
 
